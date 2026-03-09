@@ -133,3 +133,14 @@ Example questions:
 - HuggingFace Transformers
 - FAISS by Facebook AI
 - Streamlit Documentation
+
+  ## Screenshots
+
+### App Homepage
+![App](app_screenshot.png)
+
+### Q&A Working
+![QA](qa_screenshot.png)
+
+### Summary
+![Summary](summary_screenshot.png)
